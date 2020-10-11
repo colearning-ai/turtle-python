@@ -10,4 +10,4 @@ Our target is to create the largest hosted repo containing python turtle designs
 
 [Read the turtle docs here](https://docs.python.org/3/library/turtle.html#module-turtle)
 
-## Contributers are requested to cite their code source in python code comments if the code is taken from other source. We at Colearning.ai believe to create a positive learning atmosphere.
+#### Contributers are requested to cite their code source in python code comments if the code is taken from other source. We at Colearning.ai believe to create a positive learning atmosphere.
