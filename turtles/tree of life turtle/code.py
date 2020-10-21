@@ -7,7 +7,7 @@ roo = tu.Turtle() #Turtle object
 wn = tu.Screen() #Screen Object
 wn.bgcolor("white") #Screen Bg color
 wn.title("Fractal Tree Pattern")
-time.sleep(15)
+
 roo.left(90) #moving the turtle 90 degrees towards left
 roo.speed(0)#setting the speed of the turtle
 
